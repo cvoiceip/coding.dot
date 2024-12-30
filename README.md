@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jadhav </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"  width="500"  src = "https://www.vecteezy.com/png/44428143-cartoon-character-with-the-desk-working-concept-illustration">
+<img align="right" alt="coding" width="500"  src = "https://www.vecteezy.com/png/44428143-cartoon-character-with-the-desk-working-concept-illustration">
 
 - 🔭 I’m currently working on **python game**
 
