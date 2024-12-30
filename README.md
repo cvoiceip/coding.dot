@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jadhav </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400"  src = "https://www.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_339450538.htm#fromView=keyword&page=1&position=12&uuid=ce9982ab-9747-4fbe-8704-ef717d907374" />
+<img align="right" alt="coding" width="480" src="https://www.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_339450538.htm#fromView=keyword&page=1&position=12&uuid=ce9982ab-9747-4fbe-8704-ef717d907374" />
 
 - 🔭 I’m currently working on **python game**
 
